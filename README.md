@@ -1,11 +1,19 @@
-Welcome to my profile! 🤗🤗
+🚲 Cyclistic Bike-Share Project
 
-This is my Cyclistic bike-share project, focused on addressing key business goals through data processing, analysis, and actionable recommendations. Here, you'll find:
+Welcome to my GitHub profile! 🤗
 
-      1. Cyclistic bike-share project code
-      2. Cyclistic bike-share dashboard
-      3. Cyclistic bike-share report
+This repository contains my Cyclistic bike-share project, which focuses on solving key business challenges through data processing, analysis, and actionable insights.
 
-You can download the dataset [https://www.kaggle.com/datasets/tailehuu/bike-data/data] or find the link in the report.
+📂 Project Contents
 
-Thanks for visiting, and have a great day! 😄😄
+1. 📊 **Cyclistic Bike-Share Project Code** – Data cleaning, transformation, and analysis using SQL
+2. 📈 **Cyclistic Bike-Share Dashboard** – Visual representation of key metrics and trends built with Power BI.
+3. 📝 **Cyclistic Bike-Share Report** – Final report with findings, recommendations, and business implications.
+
+📥 Dataset
+
+You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/tailehuu/bike-data/data) or access the link in the report.
+
+---
+
+Thanks for stopping by, and have a great day! 😄
